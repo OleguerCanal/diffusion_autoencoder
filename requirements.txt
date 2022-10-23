@@ -1,0 +1,7 @@
+choices==0.1
+ffmpeg-python==1.4
+matplotlib==3.5.2
+numpy==1.21.6
+pytorch_lightning==1.7.0
+torch==1.12.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+tqdm==4.64.0
